@@ -1,5 +1,5 @@
 # Pruebas App Web de Gestion de compras medicas
-Este es un proyecto real por lo que en respeto a la confidencialidad no se comparte información específica de la web y empresa, la idea de publicarlo es mostrar mi colaboración en el proceso.
+Este es un proyecto real en el que particpé apoyando como QA, por confidencialidad no se comparte información específica de la web y empresa, la idea de publicarlo es mostrar mi colaboración en el proceso.
 
 ## Descripción del proyecto
 Perspectiva del software: se trata de una plataforma web de gestión de compra de equipamiento y mobiliario para el sector salud, a través de la modalidad de licitaciones públicas, las pruebas se enfocan en las siguientes funcionalidades:
