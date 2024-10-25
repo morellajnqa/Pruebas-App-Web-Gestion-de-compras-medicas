@@ -5,6 +5,7 @@ Este es un proyecto real en el que particpé apoyando como QA, por confidenciali
 Perspectiva del software: se trata de una plataforma web de gestión de compra de equipamiento y mobiliario para el sector salud, a través de la modalidad de licitaciones públicas, las pruebas se enfocan en las siguientes funcionalidades:
 - Registro y autenticación de usuarios
 - Creación y seguimiento de ofertas
+- Gestión de pagos
 
 ## Plataforma de pruebas: 
 - Sistema operativo: windows
